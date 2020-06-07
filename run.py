@@ -1,7 +1,7 @@
 '''
 Multithreaded video processing sample.
 Usage:
-   video_threaded.py {<video device number> | default set to 0}
+   run.py {<video device number> | default set to 0}
 
    Shows how python threading capabilities can be used
    to organize parallel captured frame processing pipeline
